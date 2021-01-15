@@ -1,0 +1,79 @@
+body{
+  margin: 0;
+  text-align: center;
+}
+
+
+h1{
+  margin: 0 auto 0 auto;
+  font-family: purisa;
+}
+
+.head{
+  background-color: lightgreen;
+  position: fixed;
+  width: 100%;
+  float: right;
+}
+
+.home{
+  display: inline-block;
+}
+
+.about{
+  display: inline-block;
+}
+
+.Contact{
+  display: inline-block;
+}
+.top-container{
+  width: 100%;
+  background-color: lightgreen;
+  padding-top: 100px;
+
+}
+.cloud-1{
+  height: 100px;
+  width: 200px;
+  position: relative;
+  left: 300px;
+}
+.cloud-2{
+  height: 100px;
+  width: 200px;
+  position: absolute;
+
+}
+.mountain{
+  width: 1000px;
+
+}
+.second-div{
+  padding: 50px;
+  background-color: orange;
+}
+.coding{
+  width: 200px;
+  position: relative;
+  right: 100px;
+}
+.tools{
+  width: 200px;
+  position: relative;
+  left: 100px;
+}
+hr{
+  border-style: dotted none none;
+  width: 60px;
+  border-color: grey;
+  border-width: 6px;
+}
+.codetext{
+  position: relative;
+  right: 200px;
+}
+.codetext2{
+  position: absolute;
+
+}
